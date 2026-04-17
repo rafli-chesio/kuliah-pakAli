@@ -182,7 +182,9 @@ buka file `app/kotlin+java/com.example.kuliah`.
 
 <img width="395" height="236" alt="image" src="https://github.com/user-attachments/assets/f338f33b-2c69-4d52-b4e1-7bff05588536" />
 
-Note: ganti pake nama usernameStr nya terserah, di baris ke 62
+-
+
+#### Note: ganti pake nama usernameStr nya terserah, di baris ke 62
 Masukkan kode ke MainActivity.kt:
 
 ```kt
