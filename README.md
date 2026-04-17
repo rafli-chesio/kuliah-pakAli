@@ -306,7 +306,8 @@ class second : AppCompatActivity() {
 }
 ```
 
-Oke done, terimakasih dan Selamat Ulang Tahun Diannn!!! 🎂
+Oke done, terimakasih dan Selamat Ulang Tahun Diannn Ganteng!!! 🎂
+
 <img width="432" height="861" alt="WhatsApp Image 2026-04-17 at 12 05 56" src="https://github.com/user-attachments/assets/fb474278-2ea7-41d2-b08c-5a29dbd69e35" />
 
 
