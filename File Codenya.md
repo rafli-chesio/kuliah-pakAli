@@ -1,4 +1,4 @@
-# kuliah-pakAli
+<img width="924" height="185" alt="image" src="https://github.com/user-attachments/assets/7df06ce7-651d-471e-8b2c-b7687c911e2c" /># kuliah-pakAli
 
 # Tutorial Membuat Sistem Login Android
 
@@ -305,6 +305,14 @@ class second : AppCompatActivity() {
     }
 }
 ```
+
+WARNING!!!
+Di 2 kode kotlin nya ada package com.example.(nama projek)
+sesuaikan nama projek nya sama punya kelen
+contoh punya ku com.example.kuliah
+
+<img width="914" height="92" alt="image" src="https://github.com/user-attachments/assets/94f29ee2-1f98-4698-aed3-8d0afac23a04" />
+
 
 Oke done, terimakasih dan Selamat Ulang Tahun Diannn Ganteng!!! 🎂
 
