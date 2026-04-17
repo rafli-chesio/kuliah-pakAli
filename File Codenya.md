@@ -16,6 +16,7 @@ Buka file `res/values/strings.xml`.
 ```
 
 Buka colors.xml (filenya dibawah strings.xml)
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
@@ -123,6 +124,7 @@ Masukkan Kode:
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 ## 2. Halaman Hasil (activity_second.xml)
 `res/layout/activity_second.xml/`
 
@@ -182,6 +184,7 @@ buka file `app/kotlin+java/com.example.kuliah`.
 
 Note: ganti pake nama usernameStr nya terserah, di baris ke 62
 Masukkan kode ke MainActivity.kt:
+
 ```kt
 package com.example.kuliah
 
@@ -306,10 +309,8 @@ class second : AppCompatActivity() {
 }
 ```
 
-WARNING!!!
-Di 2 kode kotlin nya ada package com.example.(nama projek)
-sesuaikan nama projek nya sama punya kelen
-contoh punya ku com.example.kuliah
+## WARNING!!! 
+## Di 2 kode kotlin nya ada package com.example.(nama projek) sesuaikan nama projek nya sama punya kelen contoh punya ku com.example.kuliah
 
 <img width="914" height="92" alt="image" src="https://github.com/user-attachments/assets/94f29ee2-1f98-4698-aed3-8d0afac23a04" />
 
