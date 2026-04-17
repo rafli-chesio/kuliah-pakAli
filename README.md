@@ -4,7 +4,10 @@
 
 ## 1. Konfigurasi String & Color
 Buka file `res/values/strings.xml`.
+
 <img width="393" height="977" alt="image" src="https://github.com/user-attachments/assets/3dc9e5a8-fcf1-4099-9b2c-de6509e87a2d" />
+
+
  Masukkan Kode:
 ```xml
 <resources>
@@ -32,9 +35,11 @@ Buka (colors.xml) Filenya dibawah strings.xml
 
 # 2. Desain Loginnya (activity_main.xml)
 `res/layout/activity_main.xml/`
+
 <img width="378" height="311" alt="image" src="https://github.com/user-attachments/assets/a3733e8d-65a5-4cd3-9fc8-9737d44d52a3" />
 
 di kode baris ke 8 ganti sesuai sama nama file kotlin pertama kelen, contoh punya MainActivity(huruf besar dan kecil harus sama)
+
 <img width="355" height="130" alt="image" src="https://github.com/user-attachments/assets/4d34e7e4-9e0a-494d-97b3-23d8fba44fbc" />
 
 Masukkan Kode:
