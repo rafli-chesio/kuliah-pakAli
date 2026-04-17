@@ -1,6 +1,4 @@
-<img width="924" height="185" alt="image" src="https://github.com/user-attachments/assets/7df06ce7-651d-471e-8b2c-b7687c911e2c" /># kuliah-pakAli
-
-# Tutorial Membuat Sistem Login Android
+# kuliah-pakAli
 
 ## 1. Konfigurasi String & Color
 Buka file `res/values/strings.xml`.
@@ -315,6 +313,7 @@ contoh punya ku com.example.kuliah
 
 
 Oke done, terimakasih dan Selamat Ulang Tahun Diannn Ganteng!!! 🎂
+
 
 <img width="432" height="861" alt="WhatsApp Image 2026-04-17 at 12 05 56" src="https://github.com/user-attachments/assets/fb474278-2ea7-41d2-b08c-5a29dbd69e35" />
 
