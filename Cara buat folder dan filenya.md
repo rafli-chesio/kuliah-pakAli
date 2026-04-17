@@ -22,7 +22,7 @@ Pada bagian Root element, kamu bisa mengetik androidx.constraintlayout.widget.Co
 
 Klik OK.
 
-# 3. Cara buat Buka Panel Project di sebelah kiri (tampilan Android).
+# 3. Cara buat file second.kt
 
 Klik kanan pada folder java > com.example.kuliah (atau nama packagemu).
 
