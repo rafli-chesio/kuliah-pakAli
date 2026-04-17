@@ -5,6 +5,7 @@ Buka file `res/values/strings.xml`.
 
 <img width="393" height="977" alt="image" src="https://github.com/user-attachments/assets/3dc9e5a8-fcf1-4099-9b2c-de6509e87a2d" />
 
+
  Masukkan Kode:
 ```xml
 <resources>
