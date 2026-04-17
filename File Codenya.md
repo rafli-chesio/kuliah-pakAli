@@ -31,6 +31,8 @@ Buka colors.xml (filenya dibawah strings.xml)
 
 
 # 2. Desain Loginnya (activity_main.xml)
+
+## 1. Halaman Login
 `res/layout/activity_main.xml/`
 
 <img width="378" height="311" alt="image" src="https://github.com/user-attachments/assets/a3733e8d-65a5-4cd3-9fc8-9737d44d52a3" />
@@ -40,7 +42,7 @@ di kode baris ke 8 ganti sesuai sama nama file kotlin pertama kelen, contoh puny
 <img width="355" height="130" alt="image" src="https://github.com/user-attachments/assets/4d34e7e4-9e0a-494d-97b3-23d8fba44fbc" />
 
 Masukkan Kode:
-## 1. Halaman Login
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
