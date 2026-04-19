@@ -313,15 +313,15 @@ class second : AppCompatActivity() {
 ```
 
 ## WARNING!!! 
-## Di 2 kode kotlin nya ada package com.example.(nama projek) sesuaikan nama projek nya sama punya kelen contoh punya ku com.example.kuliah
+## Di 2 kode kotlin nya ada package com.example.(nama projek) sesuaikan nama projek nya sama punya kelen, contoh punya ku com.example.kuliah
 
-<img width="914" height="92" alt="image" src="https://github.com/user-attachments/assets/94f29ee2-1f98-4698-aed3-8d0afac23a04" />
-
-
-Oke done, terimakasih dan Selamat Ulang Tahun Diannn Ganteng!!! 🎂
+<img width="914" height="92" alt="image" src="https://github.com/user-attachments/assets/94f29ee2-1f98-4698-aed3-8d0afac23a04" />.
 
 
-<img width="432" height="861" alt="WhatsApp Image 2026-04-17 at 12 05 56" src="https://github.com/user-attachments/assets/fb474278-2ea7-41d2-b08c-5a29dbd69e35" />
+Oke done, terimakasih dan Selamat Ulang Tahun Diannn Ganteng!!! 🎂.
+
+
+<img width="432" height="861" alt="WhatsApp Image 2026-04-17 at 12 05 56" src="https://github.com/user-attachments/assets/fb474278-2ea7-41d2-b08c-5a29dbd69e35" />.
 
 No Dana:
 089527387081
