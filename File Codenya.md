@@ -183,9 +183,9 @@ buka file `app/kotlin+java/com.example.kuliah`.
 
 -
 
-#### Note: ganti pake nama usernameStr nya terserah, di baris ke 62
-Masukkan kode ke MainActivity.kt:
 
+Masukkan kode ke MainActivity.kt:
+.
 ```kt
 package com.example.kuliah
 
@@ -266,6 +266,8 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
+
+# Note: ganti usernameStr pake nama nya terserah, di baris ke 62.
 
 ## 2. Second.kt
 
