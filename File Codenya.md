@@ -7,6 +7,7 @@ Buka file `res/values/strings.xml`.
 
 
  Masukkan Kode:.
+ Untuk yg app string app name itu nnti nama aplikasinya, jadi ganti aja terserah jadi apa.
 ```xml
 <resources>
  <string name="app_name">kuliah</string>
