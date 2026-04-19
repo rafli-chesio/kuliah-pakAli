@@ -6,7 +6,7 @@ Buka file `res/values/strings.xml`.
 <img width="393" height="977" alt="image" src="https://github.com/user-attachments/assets/3dc9e5a8-fcf1-4099-9b2c-de6509e87a2d" />
 
 
- Masukkan Kode:
+ Masukkan Kode:.
 ```xml
 <resources>
  <string name="app_name">kuliah</string>
@@ -15,7 +15,7 @@ Buka file `res/values/strings.xml`.
     </resources>
 ```
 
-Buka colors.xml (filenya dibawah strings.xml)
+Buka colors.xml (filenya dibawah strings.xml).
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -35,9 +35,9 @@ Buka colors.xml (filenya dibawah strings.xml)
 # 2. Desain Loginnya (activity_main.xml)
 
 ## 1. Halaman Login
-`res/layout/activity_main.xml/`
+`res/layout/activity_main.xml/`.
 
-<img width="378" height="311" alt="image" src="https://github.com/user-attachments/assets/a3733e8d-65a5-4cd3-9fc8-9737d44d52a3" />
+<img width="378" height="311" alt="image" src="https://github.com/user-attachments/assets/a3733e8d-65a5-4cd3-9fc8-9737d44d52a3" />.
 
 <img width="355" height="130" alt="image" src="https://github.com/user-attachments/assets/4d34e7e4-9e0a-494d-97b3-23d8fba44fbc" />
 
