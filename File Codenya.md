@@ -324,6 +324,10 @@ class second : AppCompatActivity() {
 
 ## WARNING!!! 
 ## Di 2 kode kotlin nya ada package com.example.(nama projek) sesuaikan nama projek nya sama punya kelen, contoh punya ku com.example.kuliah
+## Terus di second.kt, yg baris ke 32 tolong diganti pesannya, biar ga sama.
+
+<img width="992" height="110" alt="image" src="https://github.com/user-attachments/assets/9d493e7d-7afa-4dde-8fe8-dcbf6c1984f9" />.
+
 
 <img width="914" height="92" alt="image" src="https://github.com/user-attachments/assets/94f29ee2-1f98-4698-aed3-8d0afac23a04" />.
 
