@@ -1,6 +1,6 @@
 # kuliah-pakAli
 
-## 1. Konfigurasi String & Color
+## 1. Konfigurasi String, Themes & Color
 Buka file `res/values/strings.xml`.
 
 <img width="393" height="977" alt="image" src="https://github.com/user-attachments/assets/3dc9e5a8-fcf1-4099-9b2c-de6509e87a2d" />
@@ -28,6 +28,15 @@ Buka colors.xml (filenya dibawah strings.xml).
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name= "hijaubaru">#8BC34A</color>
+</resources>
+```
+
+Buka Themes.xml
+Ganti kodenya sama ini
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Kuliah" parent="Theme.Material3.DayNight.NoActionBar" />
 </resources>
 ```
 
