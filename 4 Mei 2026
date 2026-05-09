@@ -1,0 +1,13 @@
+## 1. Tambah di Androidmanifest.xml
+Tambah nya di paling atas 
+
+
+```kt
+    <queries>
+
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="https" />
+
+        </intent>
+```
