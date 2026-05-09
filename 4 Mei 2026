@@ -2,7 +2,7 @@
 Tambah nya di paling atas 
 
 
-```kt
+```xml
     <queries>
 
         <intent>
